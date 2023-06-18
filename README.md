@@ -15,4 +15,4 @@ Note that this webpage can take around half a minute to load the visualizations 
 
 ### Contact
 Feel free to reach out to me via:
-Email: tifang@ucsd.edu
+Email: orlandofang0511@gmail.com
