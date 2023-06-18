@@ -1,5 +1,3 @@
-# Tianrui (Orlando) Fang
-UC San Diego Undergraduate Major in Data Science
 ### About Me
 I am a UCSD Junior-Standing undergraduate majoring in Data Science and minoring in Economics. I am passionate about coding, problem-solving, and building innovative prediction models and data visualizations.
 
