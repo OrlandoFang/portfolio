@@ -1,7 +1,7 @@
 # Tianrui (Orlando) Fang
 UC San Diego Undergraduate Major in Data Science
 ### About Me
-I am a UCSD second-year undergraduate majoring in data science and minoring in economics. I am passionate about coding, problem-solving, and building innovative prediction models and data visualizations.
+I am a UCSD Junior-Standing undergraduate majoring in Data Science and minoring in Economics. I am passionate about coding, problem-solving, and building innovative prediction models and data visualizations.
 
 ### Projects
 #### [Project 1](https://orlandofang.github.io/most-exciting-league-in-league-of-legends/)
