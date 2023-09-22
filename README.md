@@ -1,5 +1,5 @@
 ### About Me
-I am a UMich-Ann Arbor undergraduate Junior. My intended major is Computer Science. I am passionate about coding, problem-solving, software engineering, and building innovative prediction models and data visualizations.
+I am a University of Michigan - Ann Arbor undergraduate Junior. My intended major is Computer Science. I am passionate about coding, problem-solving, software engineering, and building innovative prediction models and data visualizations.
 
 ### Projects
 #### [Exploratory Data Analysis On Professional League of Legends Matches (Python)](https://orlandofang.github.io/most-exciting-league-in-league-of-legends/)
