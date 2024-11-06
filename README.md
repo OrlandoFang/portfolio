@@ -1,7 +1,7 @@
 ### About Me
-I am a University of Michigan - Ann Arbor undergraduate Junior. My intended major is Computer Science. I am passionate about coding, problem-solving, software engineering, and building innovative prediction models and data visualizations.
+I am a University of Michigan - Ann Arbor undergraduate Senior, majoring in Computer Science. I am passionate about coding, problem-solving, software engineering, and building innovative prediction models and data visualizations.
 
-### Projects
+### Projects Public on Github
 #### [Exploratory Data Analysis On Professional League of Legends Matches (Python)](https://orlandofang.github.io/most-exciting-league-in-league-of-legends/)
 The project aims to analyze League of Legends Competitive Matches in 2022. Data obtained from Oracle’s Elixir. The dataset contains over 10,000 League of Legends competitive matches. The analysis will utilize the dataset and answer the following questions: Looking at tier-one professional leagues, which league has the most “action-packed” games? Is the amount of “action” in this league significantly different than in other leagues?
 Steps include Data Cleaning, Exploratory Data Analysis, Assessment of Missingness, and Hypothesis Testing.
