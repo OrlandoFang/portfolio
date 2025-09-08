@@ -1,5 +1,5 @@
 ### About Me
-I recently graduated from the University of Michigan - Ann Arbor with a Bachelor of Science in Computer Science. I am passionate about coding, problem-solving, software engineering, and building innovative prediction models and data visualizations.
+I am currently pursuing an M.S. degree in Computer Science at Columbia University. I graduated from the University of Michigan - Ann Arbor with a Bachelor of Science in Computer Science. I am passionate about problem-solving, software development, UI/UX design, applications of artificial intelligence, and building innovative prediction models and data visualizations.
 
 ### Projects Public on Github
 #### [Exploratory Data Analysis On Professional League of Legends Matches (Python)](https://orlandofang.github.io/most-exciting-league-in-league-of-legends/)
