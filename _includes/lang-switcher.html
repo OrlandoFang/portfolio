@@ -1,0 +1,5 @@
+<nav class="lang-switcher" aria-label="Language">
+  <a href="{{ '/' | relative_url }}" class="lang-switcher__link{% if page.lang != 'zh' %} lang-switcher__link--active{% endif %}" hreflang="en" lang="en">EN</a>
+  <span class="lang-switcher__sep" aria-hidden="true">/</span>
+  <a href="{{ '/zh/' | relative_url }}" class="lang-switcher__link{% if page.lang == 'zh' %} lang-switcher__link--active{% endif %}" hreflang="zh-Hans" lang="zh-Hans">中文</a>
+</nav>
