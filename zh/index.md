@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: zh
-title: 首页
+title: 方天睿
 permalink: /zh/
 ---
 
