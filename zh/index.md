@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: zh
 title: 首页
 permalink: /zh/
