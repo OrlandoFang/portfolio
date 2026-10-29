@@ -1,3 +1,7 @@
+---
+lang: en
+---
+
 ### About Me
 I am currently pursuing an M.S. degree in Computer Science at Columbia University. I graduated from the University of Michigan - Ann Arbor with a Bachelor of Science in Computer Science. I am passionate about AI engineering, software development, UI/UX design, product managing, and I am good at problem solving, communication, and challenging myself.
 
