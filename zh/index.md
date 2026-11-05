@@ -19,9 +19,9 @@ permalink: /zh/
 
 ### 项目
 
-#### [Brandforge AI：多智能体品牌生成平台](https://orlandofang.github.io/BrandForge_AI--Multi-Agent_Brand_Generation_Platform/)
+#### [Brandforge AI：多智能体品牌生成平台](https://brandassetgenmulti-agentplatform.vercel.app/)
 
-这是一个多智能体平台，可将用户描述转化为品牌人设、Logo 与营销策略，并支持异步并行生成。前端在 Figma Make 支持下使用 React 构建；后端使用 Python（Cursor 与 Claude 辅助开发），采用 FastAPI 与 MongoDB。系统架构包含 AI 网关智能体，负责任务分发给：生成并渲染 HTML 的网站智能体、具备前端能力的 Logo 智能体（生成 SVG/PNG），以及使用 RAG 提供广告投放方案（含平台推荐与合规限制）及 AI 生成海报的营销智能体。RAG 使用两类主要数据集：广告效果基准（CPC、CPM、CPA、CTR、转化率等）与平台政策语料；数据来自公开来源抓取。
+这是一个多智能体平台，可将用户描述转化为品牌人设、Logo 与营销策略，并支持异步并行生成。前端在 Figma Make 支持下使用 React 构建；后端使用 Python（Cursor 与 Claude 辅助开发），采用 FastAPI 与 MongoDB。系统架构包含 AI 网关智能体，负责任务分发给：生成并渲染 HTML 的网站智能体、具备前端能力的 Logo 智能体（生成 SVG/PNG），以及使用 RAG 提供广告投放方案（含平台推荐与合规限制）及 AI 生成海报的营销智能体。RAG 使用两类主要数据集：广告效果基准（CPC、CPM、CPA、CTR、转化率等）与平台政策语料，并采用 FAISS 作为向量数据库。
 
 AI 流水线包括结构化品牌画像抽取、基于网关的多智能体并行调度、RAG 检索、模板驱动规划与合规检查，并集成 OpenAI API。通过标准化智能体输出契约与部分失败容错提升可靠性，单个智能体出错不会导致端到端生成失败。
 
